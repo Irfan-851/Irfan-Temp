@@ -1,0 +1,293 @@
+.firstImage {
+  height: 40px;
+  width: 126px;
+  object-fit: cover;
+}
+.secondImage {
+  height: 40px;
+  margin-left: 12px;
+}
+.headerText {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ml-auto-custom {
+  margin-left: auto !important;
+}
+.btncustomization {
+  margin-left: 60px;
+}
+.bgContainerImg {
+  background-image: url("../assets/elevation-1-bg.png");
+  height: 500px;
+  background-repeat: round;
+}
+.myformconatiner {
+  width: 400px;
+  margin-left: auto;
+  background: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  position: relative;
+  top: 60px;
+}
+.myFormHEader {
+  color: #00509d;
+  border-bottom: 2px solid #00509d;
+  padding: 0px 0px 15px 0px;
+  margin: 0px -15px 10px -15px;
+}
+.whatsAppImg {
+  height: 50px;
+  position: absolute;
+  right: -24px;
+}
+.commonHEading {
+  color: #00509d;
+  font-weight: 700;
+  font-size: 22px;
+}
+.specialOfferCard {
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin: 10px;
+  width: 17%;
+  padding: 42px;
+  border-radius: 5px;
+}
+.myspecialOffImg {
+  background: #00509d;
+  padding: 10px;
+  height: 64px;
+  border-radius: 48px;
+}
+.cardText {
+  font-size: 13px;
+  font-weight: 500;
+  margin: 15px 0px 0px 0px;
+}
+.lifeRepublicBg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 435px;
+}
+.textaresinLife {
+  width: 410px;
+  font-weight: 500;
+  /* line-height: 25px; */
+  position: relative;
+  bottom: 14px;
+}
+
+.checkcircle {
+  height: 33px;
+  width: 33px;
+  background: #00509d;
+  border-radius: 37px;
+  margin-right: 10px;
+  position: relative;
+  /* top: 8px; */
+}
+.handsomeMenImg {
+  position: relative;
+  left: 0px;
+  bottom: 113px;
+  height: 488px;
+}
+.gardBg {
+  background-image: linear-gradient(to right, #e0eaf9, #f9e2e6);
+}
+.imgarea {
+  height: 365px;
+}
+.conatinerSpace {
+  margin-top: 50px;
+}
+
+.heading {
+  margin-bottom: 2.4rem;
+  /* max-width: 34.9rem; */
+  /* font-size: 2.2rem; */
+  /* font-weight: 700px; */
+  /* line-height: 1.2125; */
+  color: #00509d;
+  /* font-family: Inter, "Source Sans Pro"; */
+  /* flex-shrink: 0; */
+}
+.proxity {
+  /* margin-bottom: 1.6rem; */
+  /* max-width: 43.6rem; */
+  /* font-size: 3.2rem; */
+  font-weight: 300px;
+  /* line-height: 1.46875; */
+  color: #2b2b2b;
+  /* font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0; */
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 20px;
+}
+.pro {
+  /* max-width: 57.8rem; */
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.3200000127;
+  color: #212529;
+  /* font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+  font-size: 16px; */
+  text-align: justify;
+}
+
+p {
+  font-size: 14px;
+}
+.img-1 {
+  width: 96%;
+  height: 90%;
+  position: absolute;
+  bottom: 0px;
+  border-radius: 5px;
+  /* object-fit: cover; */
+  background-image: url("../assets/sky-trail-on-70m-height.png");
+  background-repeat: round;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img-2 {
+  width: 100%;
+  height: 95%;
+  border-radius: 5px;
+}
+.img-3 {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+}
+.imgCard {
+  background-color: #f8f8f8;
+  font-weight: 700px;
+  padding: 40px;
+  font-size: 34px;
+}
+
+.img-gallery {
+  width: 24%;
+  padding: 5px;
+  /* background-color: grey; */
+  height: 200px;
+  margin: 10px 3px;
+}
+
+.imageGalleryImg {
+  width: 100%;
+  height: 200px;
+  border-radius: 5px;
+}
+.layoutCard {
+  width: 49%;
+  padding: 5px;
+  /* background-color: grey; */
+  /* height: 624px; */
+  margin: 10px 3px;
+  padding: 25px;
+}
+.layoutimg {
+  width: 100%;
+  height: 300px;
+  border-radius: 5px;
+  /* border: 30px solid #90a2ac; */
+}
+
+.layoutCard2 {
+  width: 33.33%;
+  padding: 5px;
+  /* background-color: grey; */
+  /* height: 624px; */
+  margin: 10px 3px;
+  padding: 25px;
+  display: inline;
+}
+.layoutimg2 {
+  width: 100%;
+  height: 250px;
+  border-radius: 5px;
+  display: inline;
+}
+.text-center {
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.3200000763;
+  color: #212529;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.AmenitiesCard {
+  border-radius: 20px;
+  text-align: left;
+  padding: 15px 0px 0px 18px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin: 10px;
+  width: 17%;
+  padding: 3%;
+}
+.lookWhatCustomerHEading {
+  /* margin: 0rem 0rem 10.8rem 0rem; */
+  /* max-width: 32.3rem; */
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 1.1809045453;
+  color: #2b2b2b;
+}
+.testimonialCard {
+  box-shadow: 1rem 1rem 3rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding: 35px;
+  /* width: 70%; */
+  margin-left: auto;
+}
+.cardText {
+  border-bottom: 1px solid lightgrey;
+}
+.testimonialimg {
+  width: 49%;
+}
+.testimonial {
+  width: 50%;
+  text-align: right;
+  /* display: flex; */
+}
+.testimonialbottomimg {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.rating {
+  width: a 20px;
+  height: 20px;
+}
+.testimonialbottom {
+  display: flex;
+}
+.testimonialName{
+  margin-top: 7px;
+    margin-left: 0px;
+    font-weight: 500;
+}
+.punemaharashtra{
+  margin-top: 7px;
+    /* font-size: 1.94rem; */
+    font-weight: 500;
+    margin-left: 300px;
+}
+.imgeellipse{
+  
+}
